@@ -47,7 +47,7 @@ def xacdinhkhoi(image):
 i = 0     
 print("nhan 'q' de thoat")
 while True:
-    path = "D:/Xulyanhmau/codechup/picture/"
+    path = "D:/3.Python/Picture/"
     _,image = img.read()
     #xacdinhkhoi(image)
     cv2.imshow("",image)
